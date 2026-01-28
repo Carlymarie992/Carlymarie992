@@ -1,7 +1,8 @@
 ---
+
 # Technical Philosophy: The Self-Directed Build
 
-**Carly Marie Cheney**
+**Carlymarie992**
 
 > "Quality is not an act, it is a habit." — Aristole (Applied to Python)
 
