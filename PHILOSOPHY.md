@@ -2,15 +2,14 @@
 
 # Technical Philosophy: The Self-Directed Build
 
-**Carlymarie992**
+---
+## **Carlymarie992**
 
 > "Quality is not an act, it is a habit." — Aristole (Applied to Python)
 
 ### 1. The "Need-to-Know" Architecture
 
 I approach coding through the lens of **Information Utility**. Before importing a library, I ask: *Does this reduce friction for the end-user?*
-
-* **Example:** I pivoted from `PyPDF2` to `pypdf 3.17.1` because reliability in legal data extraction is a non-negotiable user requirement. If the data is buggy, the UX is broken.
 
 ### 2. Radical Reproducibility
 
