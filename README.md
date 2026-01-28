@@ -26,18 +26,22 @@ My background is built on a foundation of independent, rigorous study. Without a
 
 * **The Solution:** A Python-based diagnostic tool that uses `NLTK` and `scikit-learn` to map behavioral cycles.
 * **The Interface:** I use `Matplotlib` and `Seaborn` to create data visualizations that act as a "cognitive shortcut," allowing users to see frequency and intensity at a glance.
-* **Technical Rigor:** Built with a strict dependency manifest (`pypdf==3.17.1`, `pandas>=2.0.0`) to ensure reliability in legal contexts.
+* **Technical Rigor:** Built with a strict dependency manifest (`pdfForensic`, `pandas>=2.0.0`) to ensure reliability in legal contexts.
 
 ---
 
 ### 🛠️ Technical Stack (Validated Builds)
 
-| Category | Specialized Tools | UX Application |
-| --- | --- | --- |
-| **Data & Logic** | `pandas`, `numpy`, `Boltons` | Managing complex datasets to ensure a "single source of truth." |
-| **NLP/AI** | `scikit-learn`, `nltk`, `textblob`, `Gemini API` | Extracting intent and sentiment to reduce user reading time. |
-| **Visualization** | `matplotlib`, `seaborn`, `wordcloud` | Designing visual evidence summaries for non-technical stakeholders. |
-| **Systems** | `pypdf`, `cryptography`, `python-dotenv` | Ensuring data privacy and "trust-by-design" in every workflow. |
+| Category | Library | UX & Product Application |
+| -------- | :-----: | ------------------------ |
+| Data Engine | pandas, numpy | Structuring and querying complex legal evidence datasets. |
+| Deep Forensics | pdfForensic | Structural Integrity: Detecting anomalies and hidden metadata in legal filings. |
+| Logic Layer | Boltons | "Extending the standard library for robust, industrial-strength data structures." |
+| NLP & Analysis | nltk, textblob, gemini api | Sentiment and intent mapping to reveal behavioral narratives. |
+| Pattern Discovery | scikit-learn | Identifying cycles of coercive control through statistical modeling. |
+| Data Storytelling | matplotlib, seaborn, wordcloud | Visualizing frequency and intensity to reduce user cognitive load. |
+| Security & Trust | cryptography, python-dotenv | Ensuring data privacy and ethical handling of sensitive information. |
+| Interface/Ops | click, Jinja2 | "Designing intuitive CLI tools and automated, templated reporting." |
 
 ---
 
@@ -45,10 +49,6 @@ My background is built on a foundation of independent, rigorous study. Without a
 
 * **Data Storytelling:** Visualizing the trajectory of the **3I/ATLAS** comet using astronomical datasets.
 * **Legal UX:** Streamlining the interaction between pro se litigants and judicial filing requirements.
-
----
-
-### 📊 Impact & Growth
 
 ---
 
