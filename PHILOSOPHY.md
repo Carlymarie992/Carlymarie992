@@ -1,5 +1,4 @@
 ---
-
 # Technical Philosophy: The Self-Directed Build
 
 **Carly Marie Cheney**
